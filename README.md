@@ -36,7 +36,7 @@ Print the coefficients, intercept, and the predicted CO2 value.
 ```
 '''
 Program for multivariate linear regression and to predict a unknown variable using the given dataset.
-Developed By: NARAMALA KUMARETAJ
+Developed By: NARAMALA KUMARTEJA
 Register Number: 212223230132
 '''
 import pandas as pd
